@@ -60,7 +60,7 @@ const music_list = [
   } ,
   {
     img:
-    "image/rap.gif",
+    "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif",
     name: "Diario de um Detento",
     artist: "Racionais Mc's",
     music:
@@ -75,7 +75,7 @@ const music_list = [
   },
   {
     img:
-    "/image/rap.gif",
+    "image/alien_walking.gif",
     name: "Rapaz Comum",
     artist: "Racionais Mc's",
     music:
@@ -97,7 +97,7 @@ const music_list = [
   },
   {
     img:
-      "image/rap.gif",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif",
     name: " Californication",
     artist: "Red Hot Chili Peppers",
     music:

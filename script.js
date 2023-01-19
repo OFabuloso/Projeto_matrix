@@ -45,7 +45,7 @@ const music_list = [
   },
   {
     img:
-      "/image/rap.gif",
+      "image/rap.gif",
     name: "Jorge Da Capadocia",
     artist: "Racionais Mc's",
     music:
@@ -53,14 +53,14 @@ const music_list = [
   },
   {
     img:
-      "/image/alien_walking.gif",
+      "image/alien_walking.gif",
     name: "Capitulo 4, Versiculo 3",
     artist: "Racionais Mc's",
-    music: "/musica/03. Racionais Mc's - Capítulo 4, Versículo 3.mp3"
+    music: "musica/03. Racionais Mc's - Capítulo 4, Versículo 3.mp3"
   } ,
   {
     img:
-    "/image/rap.gif",
+    "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif",
     name: "Diario de um Detento",
     artist: "Racionais Mc's",
     music:
@@ -68,14 +68,14 @@ const music_list = [
   },
   {
     img:
-      "/image/alien_walking.gif",
+      "image/alien_walking.gif",
     name: "Qual Mentira Vou Acreditar",
     artist: "Racionais Mc's",
-    music: "/musica/08. Racionais Mc's - Qual Mentira Vou Acreditar.mp3"
+    music: "musica/08. Racionais Mc's - Qual Mentira Vou Acreditar.mp3"
   },
   {
     img:
-    "/image/rap.gif",
+    "image/alien_walking.gif",
     name: "Rapaz Comum",
     artist: "Racionais Mc's",
     music:
@@ -83,21 +83,21 @@ const music_list = [
   },
   {
     img:
-      "/image/alien_walking.gif",
+      "image/alien_walking.gif",
     name: "Formula Mágica Da Paz",
     artist: "Racionais Mc's",
-    music: "/musica/10. Racionais Mc's - Formula Mágica Da Paz.mp3"
+    music: "musica/10. Racionais Mc's - Formula Mágica Da Paz.mp3"
   },
   {
     img:
-      "/image/alien_walking.gif",
+      "image/alien_walking.gif",
     name: "Mágico De Oz",
     artist: "Racionais Mc's",
-    music: "/musica/09. Racionais Mc's - Mágico De Oz.mp3"
+    music: "musica/09. Racionais Mc's - Mágico De Oz.mp3"
   },
   {
     img:
-      "/image/rap.gif",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif",
     name: " Californication",
     artist: "Red Hot Chili Peppers",
     music:

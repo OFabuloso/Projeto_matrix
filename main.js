@@ -30,7 +30,7 @@ setInterval(() => {
 
 let alarmTime,
   isAlarmSet,
-  ringTone = new Audio("OLHA O BARULHINHO DA CAMA RENK RENK - GRAVE (BASS-BOOSTED) (320 kbps).mp3");
+  ringTone = new Audio("musica/OLHA O BARULHINHO DA CAMA RENK RENK - GRAVE (BASS-BOOSTED) (320 kbps).mp3");
 
 for (let i = 12; i > 0; i--) {
   i = i < 10 ? `0${i}` : i;
